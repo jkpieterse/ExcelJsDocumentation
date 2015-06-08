@@ -17,7 +17,7 @@ The Workbook has the following relationships defined:
 
 ## Methods
 
-The Worksheet has the following methods defined:
+The Workbook has the following methods defined:
 
 | Method     | Return Type    |Description|Notes  |
 |:-----------------|:--------|:----------|:------|
